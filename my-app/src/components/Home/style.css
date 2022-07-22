@@ -1,0 +1,29 @@
+
+.search-box-container{
+    display: flex;
+    width: 50%;
+    align-items: center;
+    font-size: 10px;
+    vertical-align: middle;
+    padding: 0px 15px;
+    margin-left: 5%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.search-box{
+    width: 100%;
+    margin:10px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+}
+.dlt-btn{
+    border-radius: 20px;
+    background-color: rgb(199, 51, 80);
+    color: white;
+    margin-left: 20ch;
+  }
+
+  
